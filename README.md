@@ -1,7 +1,10 @@
 # Final_projec
 AToDoList
+
 *The website offer a to do list. Different user can get their own list and they can edit their planners
+
 ##Main functions
+
 *Multi-users function
 *Write down a new task and add to the main list
 *ClearAll button: can clear all tasks in the list
