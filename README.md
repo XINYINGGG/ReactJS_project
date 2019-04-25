@@ -1,4 +1,4 @@
-# Final_projec
+# Final_project
 
 *The website offer a to do list. Different user can get their own list and they can edit their planners
 
