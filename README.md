@@ -1,12 +1,18 @@
 # Final_project
 
-*The website offer a to do list. Different user can get their own list and they can edit their planners
+## Introduction
+* The website offer a to do list. Different user can get their own list and they can edit their planners
 
-## Main functions
-
-* Multi-users function
-* Write down a new task and add to the main list
-* ClearAll button: can clear all tasks in the list
-* Finish Button: when finish a task, click finish button remove that task from the list.
-* The first priority button: when find some tasks are more important than others, put these tasks to the first location.
-
+## Login Page
+* Multi-users can login from the login page and get their own to-do list
+## Home Page
+### Send Button
+* user can write down a new task and add to the main list
+### ClearAll Button
+* user can clear all tasks in the list
+### Finish Button
+* when user finished a task, they can click finish button and then remove that task from the list.
+### First Priority Button
+* when users found some tasks are more important than others, they can put these tasks to the headmost .
+### Search Function
+* Users can use search bar to search the content or the date from the to-do lists
